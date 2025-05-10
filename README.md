@@ -1,8 +1,8 @@
 # Duck Clicker
 
-![Duck Clicker Banner](https://raw.githubusercontent.com/bearclicker/duck-clicker/main/duck-empire.png "Build Your Duck Dynasty")
+![Duck Clicker Banner](https://raw.githubusercontent.com/bearclicker/duck-clicker/main/duck-clicker.png "Build Your Duck Dynasty")
 
-🦆🦆 Click to start your feathery empire! Play now: [Duck Clicker](https://clicker-game.com/duck-clicker/ "Quack to Riches")
+🦆🦆 Click to start your feathery empire! Play now: [Duck Clicker](https://clicker-game.com/duck-clicker/ "Duck Clicker")
 
 # Embark on Your Duck Domination Journey!
 
